@@ -36,7 +36,7 @@ DOM is short for Document Object Model. It is an API that helps connect the brid
 
 2. What is an event?
 
-
+Events are things that happen to an HTML element for example when the button gets click. This thing will let javascript know what to manipulate on the webpage when it happens.
 
 3. What is an event listener?
 
