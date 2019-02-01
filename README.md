@@ -48,6 +48,8 @@ We want to convert a NodeList into an Array when we want to manipulate the conte
 
 5. What is a component?
 
+A component is a resuable collection of codes consisting of construtor functions that can help us create similar elements that share the same functions and style.
+
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
