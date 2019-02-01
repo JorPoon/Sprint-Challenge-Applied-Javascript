@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM is short for Document Object Model. It is an API that helps connect the bridge between HTML, CSS, and Javascript to represent a webpage and also have the ability to change the representation.
+
 2. What is an event?
+
+Events are things that happen to an HTML element for example when the button gets click. This thing will let javascript know what to manipulate on the webpage when it happens.
 
 3. What is an event listener?
 
+Event listener is a method that connects an event handler onto an element.
+
 4. Why would we convert a NodeList into an Array?
 
+We want to convert a NodeList into an Array when we want to manipulate the content inside the nodelist using array methods and properties.
+
 5. What is a component?
+
+A component is a resuable collection of codes consisting of construtor functions that can help us create similar elements that share the same functions and style.
 
 ### Git Set up
 
