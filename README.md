@@ -32,7 +32,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM is short for Document Object Model. It is an API that helps connect the bridge between HTML, CSS, and Javascript to represent a webpage and also have the ability to change the representation.
+
 2. What is an event?
+
+
 
 3. What is an event listener?
 
