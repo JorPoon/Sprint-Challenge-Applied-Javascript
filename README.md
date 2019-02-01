@@ -40,6 +40,8 @@ Events are things that happen to an HTML element for example when the button get
 
 3. What is an event listener?
 
+Event listener is a method that connects an event handler onto an element.
+
 4. Why would we convert a NodeList into an Array?
 
 5. What is a component?
