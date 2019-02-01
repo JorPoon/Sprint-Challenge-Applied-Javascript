@@ -44,6 +44,8 @@ Event listener is a method that connects an event handler onto an element.
 
 4. Why would we convert a NodeList into an Array?
 
+We want to convert a NodeList into an Array when we want to manipulate the content inside the nodelist using array methods and properties.
+
 5. What is a component?
 
 ### Git Set up
